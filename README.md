@@ -6,5 +6,7 @@ El analizador recibe información (usualmente texto plano) y construye una estru
 
 ## Miembros del Grupo:
 1.David Villareal
+
 2.Pablo Gonzales
+
 3.Samuel Ramirez
