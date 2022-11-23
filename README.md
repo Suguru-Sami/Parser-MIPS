@@ -3,3 +3,8 @@ Un programa o servicio de búsqueda de datos basado en ciertas reglas. El analiz
 A diferencia de una API, el análisis no implica obtener el permiso del propietario del recurso del donante para usar los datos. Como resultado, a menudo hay problemas legales en torno al contenido obtenido con un analizador. 
 En el campo de la seguridad de la información, los analizadores se utilizan para analizar registros y buscar rastros de actividad de malware. 
 El analizador recibe información (usualmente texto plano) y construye una estructura de Datos otorgando un orden ramificado, jerárquico y proveyendo una representación estructural de la entrada mientras verifica la correcta sintaxis de la información. 
+
+## Miembros del Grupo:
+1.David Villareal
+2.Pablo Gonzales
+3.Samuel Ramirez
